@@ -1,5 +1,4 @@
 Introduction
-
 Todo App, developed in ReactJS. Here's the URL of the deployed app on Netlify: https://todo-react-tailwind-firebase.netlify.app/
 
 Uses
